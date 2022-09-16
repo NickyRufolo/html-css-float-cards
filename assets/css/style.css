@@ -12,7 +12,6 @@
     }
 
 
-    
     h1 {
         color: rgb(210, 52, 115);
         text-align: center;
@@ -39,7 +38,8 @@
 
 
     .columns{
-background-color: aquamarine;
+background-color: rgb(255, 255, 255);
+position: absolute;
 
     }
 
@@ -65,9 +65,9 @@ img{
     height: 100px;
     background-color: rgb(0, 0, 0);
     line-height: 30px;
-    border-color: aliceblue;
-    margin-right: 30px;
-    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+   
 }
 
 .card h2,p {
