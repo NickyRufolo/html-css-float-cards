@@ -39,9 +39,8 @@
 
     .columns{
 background-color: rgb(255, 255, 255);
-position: absolute;
-
-    }
+margin: auto;    
+margin-left: 10%; }
 
     h2{
 
