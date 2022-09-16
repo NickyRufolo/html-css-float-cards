@@ -61,10 +61,13 @@ img{
 
 .card {
     float: left;
-    width: calc(100% / 3 );
-    height: 100%;
+    width: calc(80% / 3 );
+    height: 100px;
     background-color: rgb(0, 0, 0);
     line-height: 30px;
+    border-color: aliceblue;
+    margin-right: 30px;
+    margin-bottom: 30px;
 }
 
 .card h2,p {
